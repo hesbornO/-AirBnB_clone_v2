@@ -1,0 +1,1 @@
+Creating the webstatic folder
